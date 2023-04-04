@@ -1,6 +1,6 @@
 # blackpassword Help
 
--p (just create a password) \n
+-p (just create a password) 
 
 -sp -n / --name [name file for save password]
 
