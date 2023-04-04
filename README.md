@@ -1,4 +1,4 @@
-# blackpassword Help
+# Help
 
 -p (just create a password) 
 
